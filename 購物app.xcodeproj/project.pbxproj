@@ -13,6 +13,7 @@
 		57013EB326317105004E7CB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57013EB126317105004E7CB4 /* Main.storyboard */; };
 		57013EB52631710A004E7CB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57013EB42631710A004E7CB4 /* Assets.xcassets */; };
 		57013EB82631710A004E7CB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57013EB62631710A004E7CB4 /* LaunchScreen.storyboard */; };
+		57013EC126318D08004E7CB4 /* SettingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57013EC026318D08004E7CB4 /* SettingTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57013EB42631710A004E7CB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57013EB72631710A004E7CB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57013EB92631710A004E7CB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57013EC026318D08004E7CB4 /* SettingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				57013EAD26317105004E7CB4 /* SceneDelegate.swift */,
 				57013EAF26317105004E7CB4 /* ViewController.swift */,
 				57013EB126317105004E7CB4 /* Main.storyboard */,
+				57013EC026318D08004E7CB4 /* SettingTableViewController.swift */,
 				57013EB42631710A004E7CB4 /* Assets.xcassets */,
 				57013EB62631710A004E7CB4 /* LaunchScreen.storyboard */,
 				57013EB92631710A004E7CB4 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57013EC126318D08004E7CB4 /* SettingTableViewController.swift in Sources */,
 				57013EB026317105004E7CB4 /* ViewController.swift in Sources */,
 				57013EAC26317105004E7CB4 /* AppDelegate.swift in Sources */,
 				57013EAE26317105004E7CB4 /* SceneDelegate.swift in Sources */,
